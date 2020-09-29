@@ -1,0 +1,7 @@
+p nand0 vdd out0 2 4
+n nand0 out0 gnd 2 4
+p A vdd nand0 2 4
+p B vdd nand0 2 4
+n A nand0 A_nand_B 2 4
+n B A_nand_B gnd 2 4
+
