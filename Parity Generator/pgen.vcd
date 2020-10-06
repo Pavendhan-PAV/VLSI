@@ -1,0 +1,45 @@
+$date
+	Tue Oct  6 18:54:14 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module top $end
+$var wire 1 ! parity $end
+$var wire 1 " op $end
+$var wire 1 # ep $end
+$var reg 8 $ a [7:0] $end
+$scope module pgen_0 $end
+$var wire 8 % a [7:0] $end
+$var wire 1 ! parity $end
+$var reg 1 # ep $end
+$var reg 1 " op $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx %
+bx $
+x#
+x"
+x!
+$end
+#5
+1"
+0#
+0!
+b101 $
+b101 %
+#10
+b1111000 $
+b1111000 %
+#15
+0"
+1#
+1!
+b1111001 $
+b1111001 %
